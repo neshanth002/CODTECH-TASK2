@@ -20,7 +20,7 @@
 To design and implement a weather monitoring station using an Arduino Uno that measures and displays key atmospheric parameters such as temperature, humidity, and atmospheric pressure. The system will collect real-time data from various sensors, process the data using the Arduino Uno, and present it in a user-friendly format on a local display or through serial output. Additionally, the system will be capable of recording and logging this data for further analysis.
 
 ## Detailed Goals:
-
+'''
 
 **1Measure Temperature and Humidity:**
 
@@ -47,4 +47,4 @@ To design and implement a weather monitoring station using an Arduino Uno that m
 
 
 **Budget and Timeline:** Establish a budget and timeline for the project, including hardware, software, and development costs.
-
+'''
